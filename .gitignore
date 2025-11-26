@@ -1,0 +1,11 @@
+# Arquivos compilados
+*.class
+
+# Pastas de IDEs
+.idea/
+.vscode/
+*.iml
+bin/
+out/
+target/
+.DS_Store
